@@ -1,3 +1,4 @@
 kubernetes
 docker
 ci/cd
+monitoring
